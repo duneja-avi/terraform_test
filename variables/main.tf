@@ -8,7 +8,7 @@ variable "sshport" {
   default = 22
 }
 
-variable "enabled" {}
+variable "enabled" {
     default = true
   
 }
